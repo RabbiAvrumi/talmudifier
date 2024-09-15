@@ -1,11 +1,87 @@
 # Left
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vehicula ligula at est bibendum, in eleifend erat dictum. Etiam sit amet tellus id ex ullamcorper faucibus. Suspendisse sed elit vel neque convallis iaculis id in urna. Sed tincidunt varius ipsum at scelerisque. Phasellus lacus lectus, sodales sit amet orci in, rutrum malesuada diam. Cras pulvinar elit sit amet lacus fringilla, in elementum mauris maximus. Phasellus euismod dolor sed pretium elementum. Nulla sagittis, elit eget semper porttitor, erat nunc commodo turpis, et bibendum ex lorem laoreet ipsum. Morbi auctor dignissim velit eget consequat. <u>R. Seth:</u> Blah blah blah blah. As it is written:  "Aecenas lacinia nisi diam, vel pulvinar metus aliquet ut. Sed non lorem quis dui ultrices volutpat quis at diam."`=Lorem&1:23` Quisque at nisi magna. Duis nec lacus arcu. Morbi vel fermentum leo. Pellentesque hendrerit sagittis vulputate. Fusce laoreet malesuada odio, sit amet fringilla lectus ultrices porta. Aliquam feugiat finibus turpis id malesuada. Suspendisse hendrerit eros sit amet tempor pulvinar. Duis velit mauris, facilisis ut tincidunt sed, pharetra eu libero. Aenean lobortis tincidunt nisi. Praesent metus lacus, tristique sed porta non, tempus id quam.  `Lא` I use these red Hebrew letters in my own WIP project along with various other font changes... **You might find this funcitonality useful.** <u>R. Alter:</u> I strongly disgree with you, and future readers of this will have to comb through pages upon pages of what might as well be lorem ipsum to figure out why we're dunking on each other so much. As it is written: "Sed ut eros id arcu tincidunt accumsan. Vestibulum vitae nisl blandit, commodo odio vitae, dictum nunc. Suspendisse pharetra lorem vitae ex tincidunt ornare. Maecenas efficitur tristique libero, eget commodo urna. Pellentesque libero sem, interdum ut nibh interdum, consequat elementum magna."`=Ipsum&69:420`  `Lב` Aliquam facilisis vel turpis eu semper. Donec eget purus lectus. -> Check out how nice that little hand looks. Nice. -> Fusce porta pretium diam. Etiam venenatis nisl nec tempus fringilla. Vivamus vehicula nunc sed libero scelerisque viverra a quis libero. Integer ac urna ut lectus faucibus mattis ac id nunc. Morbi fermentum magna dui, at rhoncus nibh porttitor quis. Donec dui ante, semper non quam at, accumsan volutpat leo. Maecenas magna risus, finibus sit amet felis ut, vulputate euismod nunc.
+‰·Â¯Ó ‰˙ÏÈˆ˘Â ˙ÏÏ·Â„Ó‰ ‰ÎÂÒ 'È˙Ó
+Ù"Ú‡ ˙È· ÔÈÓÎ ‰·ÂÚÓ‰ ‰¯˘Î ‰˙ÓÁÓ
+:‰¯˘Î ‰ÎÂ˙Ó ÔÈ‡¯ ÌÈ·ÎÂÎ‰ ÔÈ‡˘
+·¯ ¯Ó‡ ˙ÏÏ·Â„Ó È‡Ó 'Ó‚ ‰ÈÈÚ ‰ÎÂÒ ‡
+¯Ó‡ Ï‡ÂÓ˘Â · ·¯ „¯ÂÈ ‰˜Â ‰ÏÂÚ ‰˜
+‡„Á È˙ ·¯ È˙¯˙ È˙ Ï‡ÂÓ˘Â ‡„Á È˙
+˙Ï„ÏÂ„Ó ˙ÏÏ·Â„Ó È‡Ó ˙ÏÏ·Â„Ó ‰ÎÂÒ
+Ï‡ÂÓ˘Â ‰¯˘Î ‰˙ÓÁÓ ‰·Â¯Ó ‰˙ÏÈˆ˘
+È˙¯˙Â ˙Ï·ÏÂ·Ó ˙ÏÏ·Â„Ó È‡Ó È˙¯˙ È˙
+‰·Â¯Ó ‰˙ÏÈˆÂ ‰¯˘Î ˙Ï·ÏÂ·Ó ‰ÎÂÒ È˙˜
+‡Ï‡ Â˘ ‡Ï‚
+ÈÈ·‡ ¯Ó‡ ‰¯˘Î ‰˙ÓÁÓ
+ÔÈ· ˘È Ï·‡ ÌÈÁÙË ‰˘Ï˘ ‰ÊÏ ‰Ê ÔÈ· ÔÈ‡˘
+‰ÏÂÒÙ ÌÈÁÙË '‚ ‰ÊÏ ‰Ê „ ‡·¯ ¯Ó‡(à ÂÏÈÙ‡
+Ô¯Ó‡ ‡Ï ÈÓ ÌÈÁÙË ‰˘Ï˘ ‰ÊÏ ‰Ê ÔÈ· ˘È
+ÁÙË Â‚‚· ˘È Ï·‡ ÁÙË Â‚‚· ÔÈ‡˘ ‡Ï‡
+‡Ó ‡·¯ ¯Ó‡ ÈÓ¯ ËÂ·Á ÔÈ¯Ó‡„ ‰¯˘Î
+ËÂ·Á ÔÈ¯Ó‡ ÁÙË ‰È· (א˙ (È‡ ÈÎ„ ‰Ï ‡ÈÓ‡
+Ô˙„ ÈÓ¯ ËÂ·Á ÔÈ¯Ó‡ ‡Ï ‰È· ˙ÈÏ ÈÎÂ ÈÓ¯
+‰·ÈÊÚÓ Ì‰ÈÏÚ ÔÈ‡˘ ‰ÈÈÏÚ‰Â ˙È·‰ ˙Â¯Â˜ ‰(á
+‰È˙Á˙ Ô‰Ó ˙Á‡ ˙Á˙ ‰‡ÓÂË ˙ÂÂÂÎÓ Ô‰Â
+‡ÓË Ô‰ÈÈ· ‰ÂÈÏÚÏ ‰Â˙Á˙‰ ÔÈ· ‡ÓË
+‡ÓË ÚÈ˜¯Ï „Ú ‰„‚Î ‰ÂÈÏÚ‰ È·‚ ÏÚ
+‰‡ÓÂË ˙ÂÂ˙Á˙‰ ÔÈ·Î ˙ÂÂÈÏÚ‰ ÂÈ‰
+„Ú Ô„‚Î Ô‰È·‚ ÏÚ ‡ÓË ÔÏÂÎ ˙Á˙ Ô‰È˙Á˙
+‰ÏÚ È˙Â ‡ÓË ÚÈ˜¯Ï ˘È˘ ÔÓÊ· ‡ Â(â "„·
+Ô‰ÈÈ· ÔÈ‡ Ï·‡ ÁÙË Á˙ÂÙ Ô‰ÈÈ·Â ÁÙË Ô‰·
+‰È˙Á˙ Ô‰Ó ˙Á‡ ˙Á˙ ‰‡ÓÂË ÁÙË Á˙ÂÙ
+ÈÎ ‡ÓÏ‡ ¯Â‰Ë Ô‰È·‚ ÏÚÂ Ô‰ÈÈ· ‡ÓË
+ÈÎÂ ÈÓ¯ ËÂ·Á ÔÈ¯Ó‡ ÁÙË ‰È· ˙È‡
 
 # Center
 
-Quisque at nisi magna. Duis nec lacus arcu. Morbi vel fermentum leo. Pellentesque hendrerit sagittis vulputate. Fusce laoreet malesuada odio, sit amet fringilla lectus ultrices porta. Aliquam feugiat finibus turpis id malesuada. `Lא` Suspendisse hendrerit eros sit amet tempor pulvinar. Duis velit mauris, facilisis ut tincidunt sed, pharetra eu libero. Aenean lobortis tincidunt nisi. `Lב` Praesent metus lacus, tristique sed porta non, tempus id quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; `Rא` In eu porta velit, quis pellentesque elit. `Rב` Quisque vehicula massa sit amet justo rhoncus auctor.
-
+éá ùéùë àðåâ éàä éë óøèöäì êëñ
+äùìù àëéì éë ìáà äùìù äæì äæ
+:ãçà ìëäå éîã ãåáìë
+äðùî .äééìòäå úéáä úåøå÷
+÷øô úåìäà úëñîá àéä
+àéä êë àéä àúééøá äìò éðúå á"é
+íéøáã äîá úåìäàã àúôñåúá äéåðù
+çúåô ïäéðéá(ח ùéù ïîæá íéøåîà
+çôè çúåô ïäéðéá(ח ïéà ìáà çôè
+ìò àîè äéúçú ïäéúçú äàîåèå
+ìò åà ïäéðéá øåäè ïäéðéáå ïäéáâ
+ïäéúçúå àîè òé÷øì ãò ïãâðë ïäéáâ
+çúåô ïäá ùéù ïîæá à"ãá øåäè
+äàîåè çôè çúåô ïäá ïéà çôè
+úãøåéå úò÷åá äìåòå úò÷åá
+ïéúéðúîã àôéñà àúééøá êä àúùäå
+úåðåúçúä ïéáë úåðåéìòäù éà÷
+çúåô åæì åæ ïéá ïéà úåðåúçúäùëã
+çúåô ïäá ïéà úåðåéìòã àöîð çôè
+êëìä úåðåúçúä ïéáë ïäù çôè
+ïäéúçú úåðåúçúá äàîåè ùéùë
+äàîåè äàéáî úçàå úçà ìëù àîè
+çôè äáçøá ùéå ìéàåä äìåë ìò
+äðåéìòá ïéàã ïåéë úåøåäè ïäéðéáå
+éîø èåáç ïðéøîà àì çôè áç
 # Right
 
-Aenean sed dolor suscipit, dignissim nisl at, blandit eros. Pellentesque scelerisque viverra ligula, vel congue lorem semper non. Nulla nec convallis neque. Donec ut leo velit. Donec felis odio, tincidunt non vestibulum ut, consectetur eget lectus. Donec varius finibus scelerisque. Aliquam nisl odio, sollicitudin eget sem non, tincidunt tempor felis. Curabitur et ullamcorper lacus. Cras eu ante quis arcu dictum ultrices. Proin vel ante quis elit sollicitudin auctor. Nullam ultricies tempor neque, varius scelerisque neque. Nam et arcu ut odio maximus tempor et sit amet elit. `Rא` Morbi fermentum dapibus elementum. Proin id metus ipsum. Aenean posuere nunc quis lacus varius, eget molestie mauris accumsan. | Fusce sapien ipsum, cursus a tincidunt vel, dignissim eu mi. Morbi id velit ac turpis ullamcorper lacinia. | Cras bibendum tellus vitae eros rutrum scelerisque. Vivamus sed pellentesque elit, non imperdiet massa. Curabitur dictum nisi sollicitudin luctus malesuada. Vestibulum id pulvinar risus, sit amet ornare libero. Etiam a nunc dolor. `Rב` In ac velit maximus, elementum ex et, blandit massa. Aliquam vehicula at neque sit amet ultrices. Integer id justo est. Quisque luctus erat eget aliquam faucibus. Etiam eu mi ac odio pretium dictum. Vestibulum viverra congue risus, ac egestas est dapibus eget. Aenean ut orci leo. Nulla dignissim erat pulvinar elit facilisis, ac venenatis leo tincidunt. Quisque eu lorem tortor. Quisque nec porttitor elit. Ut finibus ullamcorper odio, in porttitor lorem suscipit ut.
+:ãçéá äùìù åá ïéàù àìà äáøä
+קנה עולה וקנה יורד. àìù äåùä
+äæ ìöà äæ íéð÷ä áéëùäì êëñä
+êåúîå äèîì ãçàå äìòîì ãçà àìà
+ïðéòîùàå äúìéöî äáåøî äúîç êë
+åéä åìéàù ìë (ב (ïðéøîàã ïéúéðúî
+äáåøî äúìéö äúéä äåùá ïéëëåñî
+äúîçî äøùë:) ג) רב תני
+äáåøî äúìéöùå úììáåãî .חדא
+ושמואל :éîéé÷ äëåñ àãçà äúîçî
+תני. éðúî 'éøúá úåëåñ: רב תני
+àéäù äééðò àéäù äëåñ .חדא
+äáåøî äúìéö íà úìãìåãî úììáåãî
+äúîçî äøùë: ושמואל תני תרתי.
+ïéàåø ïðéøîàã äøùë úìáìåáî äëåñ
+àúìéî äúîçî äáåøî äúìéöùå
+äëåñá éîð ïðéòîùàã àéä éúéøçà
+äáåøî äúìéö íà äîç äá ùéù äééðò
+äìåò äð÷ã ìàåîùã .שנו לא :äøùë
+:ïéàåø ïðéøîàã äøùë ãøåé äð÷å
+אלא דאין בין זה לזה שלשה. ìëã
+.בגגו שאין :àéä àãç äùìùî úåçô
+íù åàìã çôè áçø äìåòä äð÷á
+äéá øîéîìå éáåùçàì äéìò ìäà
+ìò åúåà êìùäå ìôùä éîø è
